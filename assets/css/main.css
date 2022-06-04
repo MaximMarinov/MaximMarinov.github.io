@@ -1660,4 +1660,18 @@ input, select, textarea {
 			opacity: 0;
 		}
 
-		
+.skills li img {
+	height: 35px;
+	background-color: white;
+	padding: 5px;
+	border-radius: 10px;
+}
+
+.skills {
+	list-style-type: none;
+	margin: 0;
+  	padding: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
