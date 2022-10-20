@@ -1674,6 +1674,8 @@ input, select, textarea {
 	display: flex;
 	justify-content: left;
 	align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 div.left {
